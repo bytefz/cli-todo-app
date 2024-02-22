@@ -1,0 +1,17 @@
+{
+  "name": "todo-app-cli",
+  "version": "1.0.0",
+  "description": "Todo App CLI",
+  "type": "module",
+  "main": "index.js",
+  "author": "plasenca",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.2.6",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
